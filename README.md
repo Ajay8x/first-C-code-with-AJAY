@@ -1,1 +1,1 @@
-# first-C-code-with-AJAY
+# C first-C-code-with-AJAY
